@@ -7,10 +7,10 @@ kyber的核心方法
 	2.使用修改过的Fujisaki-Okamoto (FO) 转换将第一阶段的CPAPKE转换为IND-CCA2即选择密文攻击安全。叫Kyber.CCAKEM
 
 环：
-![image](环.png)
+![image](https://github.com/yeren101/Kyber/main/环.png)
 
 域：
-![image](域.png)
+![image](https://github.com/yeren101/Kyber/main/域.png)
 
 kyber的多项式环：
-![image](Kyber讨论的多项式环.png)
+![image](https://github.com/yeren101/Kyber/main/Kyber讨论的多项式环.png)
