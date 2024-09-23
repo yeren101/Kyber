@@ -6,4 +6,5 @@ kyber的核心方法
 	1.构建一个选择明文攻击安全的公钥加密算法，叫Kyber.CPAPKE
 	2.使用修改过的Fujisaki-Okamoto (FO) 转换将第一阶段的CPAPKE转换为IND-CCA2即选择密文攻击安全。叫Kyber.CCAKEM
 
-
+环：
+![image]()
